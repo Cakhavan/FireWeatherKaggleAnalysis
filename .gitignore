@@ -1,3 +1,12 @@
 *.sqlite
 *.sqlite.icloud
 FPA_FOD_20170508.sqlite.icloud
+.humidity.csv.icloud
+.pressure.csv.icloud
+.temperature.csv.icloud
+.weather_description.csv.icloud
+.wind_direction.csv.icloud
+.wind_speed.csv.icloud
+California_Fire_Incidents.csv
+city_attributes.csv
+
